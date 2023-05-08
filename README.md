@@ -18,4 +18,4 @@ Use the SageMath to open the ``Cythonized KeeLoq.ipynb`` file:
    
     sage -n jupyter Cythonized\ KeeLoq.ipynb
    
-Run the code!
+Enjoy playing with the code!
